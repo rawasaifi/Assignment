@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1yBWMbaO4NLtjqIe9Ayyv5h5sYxH5ux2r
 """
 
-!pip install streamlit==1.14.0
+pip install streamlit==1.14.0
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile Airplan.py
